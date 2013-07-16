@@ -3,12 +3,11 @@
 
   Convert a date to a [unix timestamp](http://en.wikipedia.org/wiki/Unix_timestamp) because every other analytics service under the sun seems to use this.
 
-  ```javascript
-  var unixTime = require('unix-time');
+```javascript
+var unixTime = require('unix-time');
 
-  unixTime(new Date()); // 1374016861
-
-  ```
+unixTime(new Date()); // 1374016861
+```
 
 ## License
 
