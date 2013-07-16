@@ -2,7 +2,13 @@
   "name": "unix-time",
   "version": "1.0.0",
   "description": "Convert a date to a unix timestamp",
-  "keywords": [],
+  "keywords": [
+    "unix",
+    "time",
+    "unix-time",
+    "unixTime",
+    "timestamp"
+  ],
   "author": "Segment.io <friends@segment.io>",
   "repository": {
     "type": "git",
