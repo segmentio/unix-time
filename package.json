@@ -1,0 +1,17 @@
+{
+  "name": "unix-time",
+  "version": "0.0.1",
+  "description": "Convert a date to a unix timestamp",
+  "keywords": [],
+  "author": "Segment.io <friends@segment.io>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/unix-time.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "should": "~1.2.2"
+  },
+  "main": "lib/index"
+}
