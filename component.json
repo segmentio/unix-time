@@ -1,0 +1,18 @@
+{
+  "name": "unix-time",
+  "repo": "segmentio/unix-time",
+  "description": "Convert a date to a unix timestamp",
+  "version": "0.0.1",
+  "keywords": [
+    "unix",
+    "timestamp",
+    "time"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ]
+}
