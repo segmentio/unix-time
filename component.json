@@ -2,7 +2,7 @@
   "name": "unix-time",
   "repo": "segmentio/unix-time",
   "description": "Convert a date to a unix timestamp",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "keywords": [
     "unix",
     "timestamp",
